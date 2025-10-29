@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This project is for me to learn how to make an app with Electron and TypeScript.
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:

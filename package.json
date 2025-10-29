@@ -1,0 +1,19 @@
+{
+  "name": "my-ts-app",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://frenchfrysays@dev.azure.com/frenchfrysays/my-ts-app/_git/my-ts-app.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "frenchfrysays",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "dependencies": {
+    "electron": "^39.0.0"
+  }
+}
